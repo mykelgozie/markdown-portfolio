@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Books I love 
+- the Bible 
+- Italian mafia 
+- Eloquent javascript 
